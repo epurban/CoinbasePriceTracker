@@ -1,0 +1,15 @@
+{
+  "name": "coinbot",
+  "version": "1.0.0",
+  "description": "bot for buying/selling btc from coinbase",
+  "main": "index.js",
+  "dependencies": {
+    "coinbase": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Urban",
+  "license": "ISC"
+}
